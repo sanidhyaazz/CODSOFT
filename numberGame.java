@@ -57,7 +57,7 @@ public class numberGame {
                 System.out.println("close but high");
             }}
 
-            else if(Math.abs(difference)>=2){
+            else if(Math.abs(difference)>=1){
                 System.out.println("Very close!");
             }
 
